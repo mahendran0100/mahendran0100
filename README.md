@@ -16,9 +16,8 @@ Digipin_Collecter
 ---
 📫 Connect with me
 <!-- Fill in or remove the ones that don't apply -->
-LinkedIn: [your-linkedin-url]
-Email: your-email@example.com
-Portfolio: [your-portfolio-url]
+LinkedIn: https://www.linkedin.com/in/mahendran-s-684138379/
+Email: mahendran0100@gmail.com
 ---
 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendran0100&show_icons=true&theme=default)
