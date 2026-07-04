@@ -16,7 +16,7 @@ I build tools and applications around geospatial data — mapping, spatial analy
 
 ---
 
-### 🚀 Featured Project
+### 🚀 My Project
 
 **[Digipin_Collecter](https://github.com/mahendran0100/Digipin_Collecter)**
 
