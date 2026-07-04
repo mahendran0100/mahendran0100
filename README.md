@@ -31,4 +31,4 @@ I build tools and applications around geospatial data — mapping, spatial analy
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahendran0100&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-sigma-pink.vercel.app/api?username=mahendran0100&show_icons=true&theme=default)
